@@ -22,3 +22,36 @@ select,
 textarea {
     max-width: 280px;
 }
+.button {
+    width: 30%;
+    position: relative;
+    right: 135px;
+
+}
+
+#empty {
+    margin: 20px;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 50%;
+    padding: 50px;
+    background-color: white;    
+    position: relative;
+    bottom: 590px;
+    left: 265px;
+    color: white;
+}
+#fortune {
+    margin: 20px;    
+    border-width: thin;
+    border-radius: 50%;
+    padding: 50px;
+    background-color: white;
+    text-align:center;
+    position: relative;
+    bottom: 540px;
+    right: 30px;
+    font-size: 34px;
+}
+#image {    
+}
